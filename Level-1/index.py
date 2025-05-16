@@ -1,5 +1,9 @@
-age = 20
-# we will get 10 because we are assigning a new variable.
-# btw this is a comment.(will not affact our program)
-age = 10
-print(age)
+a = 12
+shit = "lol ho rha bhai"
+print('My shit is: ', shit)
+print(a)
+bc = ["lol", "shit",1,2,3, True]
+print(bc[5])
+size = len(bc)/len(bc[0])
+print(size)
+# this is a comment
