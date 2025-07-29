@@ -1,6 +1,4 @@
- 1. BASIC DATA TYPES
-print("\n1. BASIC DATA TYPES")
-print("-" * 30)
+
 
 # Integer
 age = 25

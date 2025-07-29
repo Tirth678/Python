@@ -13,4 +13,4 @@ print(str[0:4]) # this will start from indexing 0 to indexing 2 not 3 => Hell
 print(str[1:]) # if this is blank complete string will be printed
 print(str[:4]) # this will start from indexing 0 as default and will print till index 3
 print(str[2:-1]) # negative indexing will start from last word "d" => "llo worl"
-print(str[-1:])
+print(str[-1:]) # this will return last word only that's d
